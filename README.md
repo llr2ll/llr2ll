@@ -18,7 +18,9 @@ My experience includes:
 
 - Developing React and Angular applications used in production environments
 - Building REST API integrations and backend services with Node.js
-- Working with SQL Server, MySQL and MongoDB
+- Designing relational databases with PostgreSQL, SQL Server and MySQL
+- Developing applications with Supabase Authentication, Database, Storage and Edge Functions
+- Working with MongoDB for document-based applications
 - CI/CD pipelines and Azure DevOps workflows
 - Agile teams (Scrum & Kanban)
 
@@ -57,6 +59,8 @@ My experience includes:
 
 ### Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
@@ -65,6 +69,10 @@ My experience includes:
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops)
+
+### Core Technologies
+
+React • TypeScript • Node.js • PostgreSQL • Supabase • Azure DevOps • Cloud (Vercel, Azure, AWS)
 
 ---
 
