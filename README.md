@@ -4,8 +4,7 @@ Frontend Engineer | React • TypeScript • Angular • Node.js
 
 I build scalable web applications focused on performance, user experience and business impact.
 
-🇧🇷 Based in Brazil  
-🇪🇸 Available for relocation to Spain  
+🇪🇸 Based in Spain 
 🌎 Open to remote opportunities worldwide
 
 ---
