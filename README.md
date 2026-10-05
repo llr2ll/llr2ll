@@ -13,7 +13,7 @@ Full-stack developer with <b>4+ years</b> building production web applications �
 📍 Pontevedra, Spain &nbsp;·&nbsp; UE citizen &nbsp;·&nbsp; 🌎 Open to remote roles worldwide
 </p>
 
-<img src="assets/stats.svg" alt="5+ years of experience · 37 certificates · 4 languages · UE citizen, remote-ready" width="100%">
+<img src="assets/stats.svg" alt="4+ years of experience · 37 certificates · 4 languages · UE citizen, remote-ready" width="100%">
 
 </div>
 
