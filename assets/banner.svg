@@ -15,9 +15,9 @@
   <rect x=".5" y=".5" width="999" height="339" rx="18" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
 
   <!-- availability pill -->
-  <rect x="48" y="44" width="318" height="30" rx="15" fill="#e91e8c" fill-opacity=".15" stroke="#e91e8c" stroke-opacity=".35"/>
+  <rect x="48" y="44" width="318.3" height="30" rx="15" fill="#e91e8c" fill-opacity=".15" stroke="#e91e8c" stroke-opacity=".35"/>
   <circle cx="68" cy="59" r="4.5" fill="#39d353"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
-  <text x="82" y="63.5" fill="#ffffff" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">AVAILABLE FOR NEW OPPORTUNITIES</text>
+  <text x="82" y="63.5" fill="#ffffff" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.1" textLength="266.3" lengthAdjust="spacingAndGlyphs">AVAILABLE FOR NEW OPPORTUNITIES</text>
 
   <text x="48" y="116" fill="#a0a0a0" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="600">Hi, I'm</text>
   <text x="48" y="172" fill="#ffffff" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="-1">Raphael Sanseverino</text>
@@ -25,13 +25,7 @@
   <text x="48" y="242" fill="url(#g)" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="800">clean, fast, useful products</text>
 
   <!-- stack chips -->
-  <g font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">
-    <rect x="48"  y="266" width="74"  height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="85"  y="284.5" fill="#00d4ff">React</text>
-    <rect x="130" y="266" width="104" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="182" y="284.5" fill="#00d4ff">TypeScript</text>
-    <rect x="242" y="266" width="86"  height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="285" y="284.5" fill="#e91e8c">Node.js</text>
-    <rect x="336" y="266" width="84"  height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="378" y="284.5" fill="#e91e8c">Angular</text>
-    <rect x="428" y="266" width="104" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="480" y="284.5" fill="#ff6b35">Supabase</text>
-  </g>
+  <g font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700"><rect x="48.0" y="266" width="64.0" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="62.0" y="284.5" fill="#00d4ff" textLength="36.0" lengthAdjust="spacingAndGlyphs">React</text><rect x="120.0" y="266" width="93.7" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="134.0" y="284.5" fill="#00d4ff" textLength="65.7" lengthAdjust="spacingAndGlyphs">TypeScript</text><rect x="221.7" y="266" width="75.1" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="235.7" y="284.5" fill="#e91e8c" textLength="47.1" lengthAdjust="spacingAndGlyphs">Node.js</text><rect x="304.9" y="266" width="77.2" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="318.9" y="284.5" fill="#e91e8c" textLength="49.2" lengthAdjust="spacingAndGlyphs">Angular</text><rect x="390.1" y="266" width="89.0" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="404.1" y="284.5" fill="#ff6b35" textLength="61.0" lengthAdjust="spacingAndGlyphs">Supabase</text></g>
 
   <!-- avatar with rotating gradient ring -->
   <g>
