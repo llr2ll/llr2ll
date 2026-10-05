@@ -16,6 +16,6 @@
 </g><g transform="translate(750 0)">
   <rect x="6" y="6" width="238" height="86" rx="12" fill="#111111" stroke="#ffffff" stroke-opacity=".08"/>
   <rect x="6" y="6" width="238" height="3" rx="1.5" fill="#39d353"/>
-  <text x="125" y="54" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800">EU</text>
+  <text x="125" y="54" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800">UE</text>
   <text x="125" y="76" text-anchor="middle" fill="#a0a0a0" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600">citizen · remote-ready</text>
 </g></svg>
