@@ -121,10 +121,6 @@ Full-stack developer with <b>4+ years</b> building production web applications â
 <a href="https://www.linkedin.com/in/raphael-sanseverino/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=0a0a0a"></a>
 <a href="https://raphael-sanseverino.com"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-00d4ff?style=for-the-badge&labelColor=0a0a0a"></a>
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/llr2ll/llr2ll/output/github-contribution-grid-snake.svg" alt="Contribution graph snake animation" width="100%">
-
 <sub><i>Building products, not just interfaces.</i></sub>
 
 </div>
