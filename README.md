@@ -9,7 +9,7 @@
 <a href="mailto:raphaelsanseverino@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-raphaelsanseverino@gmail.com-e91e8c?style=for-the-badge&labelColor=0a0a0a"></a> -->
 
 <p>
-Full-stack developer with <b>4+ years</b> building production web applications — from pharmacy purchasing and accounting systems to SaaS platforms.<br>
+Full-stack developer with <b>5+ years</b> building production web applications — from pharmacy purchasing and accounting systems to SaaS platforms.<br>
 📍 Pontevedra, Spain &nbsp;·&nbsp; UE citizen &nbsp;·&nbsp; 🌎 Open to remote roles worldwide
 </p>
 
